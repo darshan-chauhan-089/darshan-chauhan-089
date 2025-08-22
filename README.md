@@ -2,18 +2,13 @@
 
 🚀 **Computer Engineering Student | MERN Stack Developer | Data Structures & Algorithms (Java)**  
 
-I love building scalable applications and recreating real-world platforms to sharpen my skills. Currently working on **Full Stack Trading Platefome** and exploring **semantic search + e-commerce projects**.
+I am enthusiastic about web development and problem solving in Java. I enjoy building real-world applications and continuously strive to explore advanced concepts in full-stack development.
 
 ---
 
 ## 🔧 Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
+
 
 ---
 
